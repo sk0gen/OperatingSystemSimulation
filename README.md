@@ -15,3 +15,7 @@ It contains such functionality as:
 - Synchronization of processes.
 
 My task was to create Assembler interpreter.
+
+
+
+![binbux](https://user-images.githubusercontent.com/28295528/55686058-3656ce80-595d-11e9-8b59-8b03425d7db0.png)
